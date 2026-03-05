@@ -1,1 +1,1 @@
-https://github.com/Invalid349/sales-bonus
+https://github.com/konovalov-nv/sales-bonus
